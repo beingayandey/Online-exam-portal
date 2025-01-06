@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Online-exam-portal/static/css/main.f3afb6cd.css",
+    "main.js": "/Online-exam-portal/static/js/main.6c789857.js",
+    "static/js/453.e5b00392.chunk.js": "/Online-exam-portal/static/js/453.e5b00392.chunk.js",
+    "index.html": "/Online-exam-portal/index.html",
+    "main.f3afb6cd.css.map": "/Online-exam-portal/static/css/main.f3afb6cd.css.map",
+    "main.6c789857.js.map": "/Online-exam-portal/static/js/main.6c789857.js.map",
+    "453.e5b00392.chunk.js.map": "/Online-exam-portal/static/js/453.e5b00392.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3afb6cd.css",
+    "static/js/main.6c789857.js"
+  ]
+}
